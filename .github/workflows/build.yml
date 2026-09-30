@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       IMAGE: catnip
-      DOCKER_USER: jonatan1903   # o el usuario de Docker Hub correspondiente
+      DOCKER_USER: jonatan0218   # o el usuario de Docker Hub correspondiente
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
